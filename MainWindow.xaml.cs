@@ -26,6 +26,7 @@ namespace WpfApplication1
         {
             
             // Изменение для коммита 
+            // Commit для удаленного репозитория
             InitializeComponent();
             ent = new KonveirEntities1();
             ent.Manager1.Load();
