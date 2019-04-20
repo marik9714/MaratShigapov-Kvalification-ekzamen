@@ -25,6 +25,7 @@ namespace WpfApplication1
         public MainWindow()
         {
             
+            // Изменение для коммита 
             InitializeComponent();
             ent = new KonveirEntities1();
             ent.Manager1.Load();
